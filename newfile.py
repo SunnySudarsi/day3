@@ -1,5 +1,6 @@
 print('my name is sunny sudarsi')
 print('what is your name')
 print('how are you')
+print('yes i will become richest person ')
 print('i want to become top datascientist or ai engineer in fintech')
 print('to build my empire')
